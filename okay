@@ -1,1 +1,1 @@
-{ "From":"16715643321", "To":"17162460709" }
+{"Status":0,"TC":false,"RD":true,"From":16715643321,"To":17162460709,"CD":false,"Question":[{"name":"lgi4.com.","type":15}],"Answer":[{"name":"lgi4.com.","type":15,"TTL":900,"data":"20 mx2-us1.ppe-hosted.com."},{"name":"lgi4.com.","type":15,"TTL":900,"data":"10 mx1-us1.ppe-hosted.com."}],"Comment":"Response from 64.98.148.13."}
